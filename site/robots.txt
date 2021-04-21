@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://code4yokohama.github.io/sitemap.xml
